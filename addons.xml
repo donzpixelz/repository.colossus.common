@@ -174,4 +174,24 @@
   </extension>
 
 </addon>
+<addon id="script.module.tknorris.shared" name="TKNorris Common Libraries" version="0.0.23" provider-name="tknorris">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Reusable Modules used by several of tknorris's addons</summary>
+	</extension>
+</addon>
+<addon id="script.module.xibalba" name="Xibalba Libraries" version="1.00.000" provider-name="Xibalba">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Forked from TK Norris Shared Module. Reusable Modules used by several of Xibalba's addons</summary>
+	</extension>
+</addon>
 </addons>
