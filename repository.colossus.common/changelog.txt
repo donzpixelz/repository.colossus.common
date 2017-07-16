@@ -1,3 +1,6 @@
+[B]Version 1.0.4[/B]
+- Removed backup repos
+
 [B]Version 1.0.2[/B]
 - Add backup repos
 
