@@ -172,7 +172,7 @@
 		<summary lang="en">Reusable Modules used by several of tknorris's addons</summary>
 	</extension>
 </addon>
-<addon id="script.module.xibalba" name="Xibalba Libraries" version="1.00.000" provider-name="Xibalba">
+<addon id="script.module.xibalba" name="Xibalba Libraries" version="1.00.001" provider-name="Xibalba">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
