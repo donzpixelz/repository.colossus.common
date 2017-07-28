@@ -185,7 +185,7 @@ For updates check the readme.
   </extension>
 </addon>
 
-<addon id="script.module.urlresolver.xxx" version="1.0.03" name="Adult Resolver SMU Extension" provider-name="jsergio, Xibalba">
+<addon id="script.module.urlresolver.xxx" version="1.0.04" name="Adult Resolver SMU Extension" provider-name="jsergio, Xibalba">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
         	<import addon="script.module.urlresolver" version="3.0.38" />
