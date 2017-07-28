@@ -139,7 +139,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.xibalba" name="Xibalba Libraries" version="1.00.006" provider-name="Xibalba">
+<addon id="script.module.xibalba" name="Xibalba Libraries" version="1.00.007" provider-name="Xibalba">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.requests" />
@@ -184,21 +184,11 @@ For updates check the readme.
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="script.module.adultresolver" name="Adult Resolver" version="1.00.001" provider-name="Xibalba, Cosmix">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Resolve adult adult video host URL's to be playable in XBMC/Kodi.</summary>
-		<description lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</description>
-	</extension>
-</addon>
-<addon id="script.module.urlresolver.xxx" version="1.0.02" name="Adult Resolver SMU Extension" provider-name="jsergio">
+
+<addon id="script.module.urlresolver.xxx" version="1.0.03" name="Adult Resolver SMU Extension" provider-name="jsergio, Xibalba">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.urlresolver" version="3.0.38" />
+        	<import addon="script.module.urlresolver" version="3.0.38" />
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
