@@ -1,6 +1,7 @@
-- Updated API Keys
+[B]v3.0.1(Monday, 31 July 2017):[/B]
+  - Fixed api_key reference
 
-- Optional Keys in Settings
-
-- Fixed Search Behaviour
-
+[B]v3.0.0(Friday, 28 July 2017):[/B]
+  - TMDB Api Key in settings - RECOMMENDED - all addon devs use their own keys
+  - Optional Keys in Settings
+  - Fixed TV Show Search Behaviour
