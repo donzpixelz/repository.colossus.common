@@ -151,7 +151,7 @@
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2017.08.10"
+  version="2017.08.12"
   name="SportsDevil"
   provider-name="SportsDevil">
   <requires>
